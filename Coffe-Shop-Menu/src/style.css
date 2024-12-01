@@ -1,0 +1,30 @@
+.header {
+  background-color: #FFEBCD;
+  color: #5A2D0C;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.menu-list{
+  background-color: #E6E6FA;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.menu-item{
+  display: block;
+  font-size: 18px;
+  color: #333;
+}
+
+img {
+  position: relative;
+  z-index: 2;
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  width: 110px;
+  height: 125px;
+}
